@@ -1,0 +1,16 @@
+# Student Performance Prediction – Mini Project Report
+
+## Introduction
+The Student Performance Prediction project uses Machine Learning to predict whether a student is likely to Pass or Fail based on academic-related factors. The main objective is to understand how Machine Learning can be applied to student performance analysis.
+
+## Dataset and Features
+The project uses a dataset containing student information such as Study Hours, Attendance, Previous Marks, and Assignment Score. The dataset was loaded using Pandas and checked for missing values. The input features were selected, and the Final_Result column was used as the target variable.
+
+## Methodology
+The dataset was divided into training and testing sets using the train_test_split function from Scikit-learn. An 80% training and 20% testing split was used. A Decision Tree Classifier was selected and trained using the training data. The trained model was then used to predict student results.
+
+## Results
+The model achieved 100% accuracy on the four test samples in this run. Predictions were also generated for three new students. The model predicted Fail for the first student and Pass for the second and third students. The results demonstrate how student-related features can be used for prediction. However, the accuracy result is based on a very small test set and should not be considered a reliable estimate of general performance.
+
+## Conclusion
+This mini project helped in understanding dataset preparation, feature selection, train-test splitting, model training, prediction, and evaluation using Python and Scikit-learn. It provided practical experience in building a basic Machine Learning classification model.

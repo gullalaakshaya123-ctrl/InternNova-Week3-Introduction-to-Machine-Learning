@@ -1,0 +1,115 @@
+INTERNNOVA – WEEK 3
+INTRODUCTION TO MACHINE LEARNING
+
+TASK 1: MACHINE LEARNING FUNDAMENTALS
+
+1. WHAT IS MACHINE LEARNING?
+
+Machine Learning (ML) is a branch of Artificial Intelligence that enables computers to learn from data and make predictions or decisions without being explicitly programmed for every task. Machine Learning algorithms identify patterns in data and improve their performance based on experience.
+
+Machine Learning is widely used in applications such as recommendation systems, spam detection, image recognition, fraud detection, and healthcare.
+
+2. DIFFERENCE BETWEEN AI, ML AND DEEP LEARNING
+
+Artificial Intelligence (AI):
+Artificial Intelligence is the broad field of creating machines or systems that can perform tasks requiring human intelligence, such as decision-making, problem-solving and reasoning.
+
+Machine Learning (ML):
+Machine Learning is a subset of AI that allows systems to learn patterns from data and make predictions or decisions.
+
+Deep Learning (DL):
+Deep Learning is a subset of Machine Learning that uses artificial neural networks with multiple layers to learn complex patterns from large amounts of data.
+
+Relationship:
+AI is the broader concept, Machine Learning is a part of AI, and Deep Learning is a part of Machine Learning.
+
+3. WHAT IS A DATASET?
+
+A dataset is a collection of data organized in rows and columns. It is used to train, test and evaluate Machine Learning models.
+
+Example:
+A student performance dataset may contain student study hours, attendance, previous marks and assignment scores.
+
+4. FEATURES AND LABELS
+
+Features:
+Features are the input variables used by a Machine Learning model to make predictions.
+
+Examples:
+- Study Hours
+- Attendance
+- Previous Marks
+- Assignment Score
+
+Labels:
+A label is the output or target value that a model tries to predict.
+
+Example:
+- Final Student Grade
+- Pass or Fail
+
+5. TRAINING DATA AND TESTING DATA
+
+Training Data:
+Training data is the portion of a dataset used to teach the Machine Learning model. The model learns patterns and relationships from this data.
+
+Testing Data:
+Testing data is used to evaluate the trained model and measure how well it predicts new or unseen data.
+
+The dataset is commonly divided into training and testing portions, such as 80% training data and 20% testing data.
+
+6. TYPES OF MACHINE LEARNING
+
+A. SUPERVISED LEARNING
+
+Supervised Learning is a Machine Learning technique in which a model learns from labeled data. Both input features and the expected output are provided.
+
+Types:
+- Classification: Predicts categories or classes.
+- Regression: Predicts numerical values.
+
+Examples:
+- Email Spam Detection
+- Student Pass/Fail Prediction
+- House Price Prediction
+
+B. UNSUPERVISED LEARNING
+
+Unsupervised Learning uses unlabeled data to discover patterns, relationships or groups without predefined output labels.
+
+Examples:
+- Customer Segmentation
+- Clustering
+- Pattern Discovery
+
+7. CLASSIFICATION AND REGRESSION
+
+Classification:
+Classification predicts discrete categories or class labels.
+
+Examples:
+- Spam or Not Spam
+- Pass or Fail
+- Disease or No Disease
+
+Regression:
+Regression predicts continuous numerical values.
+
+Examples:
+- House Price Prediction
+- Salary Prediction
+- Temperature Prediction
+
+8. REAL-WORLD APPLICATIONS OF MACHINE LEARNING
+
+- Healthcare: Disease prediction and medical image analysis.
+- Finance: Fraud detection and credit risk analysis.
+- Education: Student performance prediction.
+- E-commerce: Product recommendation systems.
+- Transportation: Traffic prediction and autonomous vehicles.
+- Agriculture: Crop prediction and plant disease detection.
+- Cybersecurity: Detecting suspicious activities.
+
+9. CONCLUSION
+
+Machine Learning plays an important role in modern technology by enabling computers to learn from data and make intelligent predictions. Understanding datasets, features, labels, training, testing, classification and regression provides a strong foundation for building Machine Learning models. These concepts are useful for developing real-world AI applications.
